@@ -1,4 +1,4 @@
 # crackme
-win32  C/C++ native crackme
+win32 native crackme
 
 Just for fun.
